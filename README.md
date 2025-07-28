@@ -24,10 +24,9 @@
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-737373?style=flat&logo=Microsoft&logoColor=white)  
+![n8n](https://img.shields.io/badge/-n8n-EF476F?style=flat&logo=n8n&logoColor=white)
 ---
 
 ###  Featured Projects
