@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Padmanava Das </h1>
 <p align="center">
-  <em>Aspiring Data Analyst | Power BI Practitioner | CSE Undergrad @ CGEC</em><br>
+  <em> Data & People Analyst | Power BI Practitioner | CSE Undergrad @ CGEC</em><br>
   <em>I turn messy data into clear, actionable dashboards that help businesses think smarter.</em>
 </p>
 
