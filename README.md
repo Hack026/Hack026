@@ -1,69 +1,71 @@
 <h1 align="center">Hi, I'm Padmanava Das</h1>
 <p align="center">
-  <em>Data Analyst | People Analytics | Power BI & Excel Practitioner</em><br>
-  <em>I convert raw operational data into clear dashboards and decision-ready insights.</em>
+  <em>AI Product Manager | Product & Growth Professional | Tech Builder</em><br>
+  <em>I bridge AI technology, user research, and business strategy to build & scale high-impact products.</em>
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhpdTRnbmR6dzM3YW83ZXpoNmtsdjloMWVpN3ZqOWVyYXNoODMweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="clean analytics gif" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhpdTRnbmR6dzM3YW83ZXpoNmtsdjloMWVpN3ZqOWVyYXNoODMweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="product & analytics gif" />
 </p>
 
+---
 
+## 🚀 About Me
+
+- Final-year **B.Tech CSE** student at Cooch Behar Government Engineering College (2022–26)
+- Focus areas: **Product Strategy, AI Product Management, User Research, Growth Marketing, & Product Analytics**
+- Built **foundertruth** (AI Product Validation Platform) — onboarded **160+ active founders** through user interviews & iterative loops
+- **Top 15 National Build** in Google’s *Build the Future Showcase* for **GovGuide India** (supported by MeitY, Startup India, & NASSCOM)
+- **Top 10% Ranker** in Amazon People & Operational Strategy Case Study (Externship)
+- Technical blogger on Hashnode covering AI tools, product strategy, and data-driven growth
+- Hands-on expertise across **Product Management (PLM), SQL, Python, Power BI, Google AI Studio, and Prompt Engineering**
 
 ---
 
-## 🔍 About Me
+## 🛠 Product & Tech Stack
 
-- Final-year **B.Tech CSE** student at Coochbehar Government Engineering College (2022–26)  
-- Focus areas: **Data Analytics, People Insights, Dashboarding, Process Optimization**  
-- Completed an **Amazon People Analytics externship** - ranked in the **Top 10%**  
-- Built **25+ dashboards** and workflow automations during internship at **Celebal Technologies**  
-- Technical blogger on Hashnode with articles on analytics, modeling, and tooling  
-- Strong foundation in **Excel Analytics, Power Query, SQL, Python, and Power BI**
-
----
-
-## 🛠 Tech Stack
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-0052CC?style=flat&logo=jira&logoColor=white)
+![User Research](https://img.shields.io/badge/User_Research-FF61F6?style=flat&logo=figma&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-006400?style=flat&logo=microsoft&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-737373?style=flat&logo=microsoft&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EF476F?style=flat&logo=n8n&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Products & Projects
 
-### 🔹 **Excel Analytics: Sales & Finance Insights – AtliQ Hardwares**  
-Modelled **1M+ rows** across Sales & Finance tables.  
-Built structured P&L, Market, Customer, and Month-level insights using Power Query + PivotTables.  
-Cut manual analysis time by **40%** through automated transformations.  
+### 🔹 **foundertruth – AI Product Validation Platform**
+Built an AI-driven platform enabling early-stage founders to validate product ideas and refine go-to-market (GTM) strategies.  
+Conducted qualitative user research and rapid feedback loops, resulting in **160+ active onboarded founders**.
+
+---
+
+### 🔹 **GovGuide India – AI & Public Tech Platform**
+Recognized among the **Top 15 national builds** in Google’s *Build the Future Showcase* (backed by MeitY Startup Hub, Startup India, and NASSCOM).  
+Designed an intuitive product workflow simplifying public scheme discovery and eligibility navigation.
+
+---
+
+### 🔹 **Sentinel – Digital Safety Watchdog System**
+Architected a cloud-based serverless watchdog system ("Dead Man's Switch") using Google Apps Script & React.js.  
+Focused on high uptime, simple UX, and local storage resilience for seamless safety monitoring.
+
+---
+
+### 🔹 **AtliQ Hardwares – Product & Sales Analytics**
+Analyzed **1M+ rows** across Sales & Finance databases to uncover portfolio gaps and demand trends.  
+Automated reporting workflows using Excel & Power Query, reducing manual decision-making cycles by **40%**.  
 **Repo:** https://github.com/Hack026/Excel-Analytics-Sales-Finance-Insights-for-AtliQ-Hardwares
-
----
-
-### 🔹 **Portfolio Accountability Dashboard – Power BI**  
-Identified **213 unassigned customer pools** by unpivoting 20+ product fields and engineering Mapping Status logic.  
-Built a decision-first Power BI dashboard used for governance and ownership alignment.  
-**Repo:** https://github.com/Hack026/Portfolio-Accountability-Analysis  
-**Interactive Presentation:** https://prezi.com/view/Fs2cdeude8Fb4SxQv2N7/
-
----
-
-### 🔹 **CaraLuxe – E-commerce Frontend**  
-Responsive fashion website built using **vanilla JS + DOM manipulation** and clean CSS.  
-**Demo:** https://hack026.github.io/demo-e-commerce-website/about.html
 
 ---
 
 ## 📝 Blogs & Portfolio
 
-- **Portfolio Website:** https://hack026.github.io/cv/  
-- **Amazon Externship Story:** https://amazon-externship-experience.hashnode.dev/  
-- **Hashnode Blog:** https://hashnode.com/@Padmanava07  
+- **Portfolio Website:** https://hack026.github.io/cv/
+- **Amazon Strategy Case Story:** https://amazon-externship-experience.hashnode.dev/
+- **Hashnode Blog:** https://hashnode.com/@Padmanava07
 
 ---
 
@@ -76,4 +78,4 @@ Responsive fashion website built using **vanilla JS + DOM manipulation** and cle
 
 ---
 
-<p align="center"><em>“Clarity beats complexity. Insight beats noise.”</em></p>
+<p align="center"><em>“Solving the right problem beats building the right feature.”</em></p>
