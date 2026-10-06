@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- Final-year **B.Tech CSE** student at Cooch Behar Government Engineering College (2022–26)
+- **B.Tech CSE** graduate at Cooch Behar Government Engineering College (2022–26)
 - Focus areas: **Product Strategy, AI Product Management, User Research, Growth Marketing, & Product Analytics**
 - Built **foundertruth** (AI Product Validation Platform) — onboarded **160+ active founders** through user interviews & iterative loops
 - **Top 15 National Build** in Google’s *Build the Future Showcase* for **GovGuide India** (supported by MeitY, Startup India, & NASSCOM)
